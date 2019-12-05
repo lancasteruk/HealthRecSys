@@ -3,7 +3,7 @@ This repository has been created to store open datasets in the field of health r
 
 ## Nudging Healthier Choices
 
-[final_study_nudging_healthier_choices.csv](Datatset: final_study_nudging_healthier_choices.csv)
+[Dataset: final_study_nudging_healthier_choices.csv](final_study_nudging_healthier_choices.csv)
 
 This dataset was collected as part of research work on helping people to make healthier food choices by nudging. 
 
