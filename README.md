@@ -17,11 +17,19 @@ Elsweiler, D., Trattner, C. and Harvey, M., 2017, August. Exploiting food choice
 The data is strcutured as follows:
 
 id - internal ID number for this specific trial
+
 pair_id - internal ID number for the recipe pair
+
 user_id - anonimised participant ID
+
 q1 - the recipe the participant chose
+
 algorithm - the algorithm used to generated the pairs and predictions (see the paper for details)
+
 diff_fat - the difference in fat between the two recipes (fat_recipe1 - fat_recipe2)
+
 correct_answer - the "correct" response (i.e. the least fatty recipe)
+
 answer - the recipe the participant chose
+
 gain - 1 when the algorithm correctly predicted the chosen recipe, 0 otherwise
